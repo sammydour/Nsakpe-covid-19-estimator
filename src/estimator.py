@@ -1,4 +1,4 @@
-def estimator(data):{
+def estimator(data):
   return data{
 
     data = {
@@ -26,7 +26,7 @@ def estimator(data):{
       'icu_casses_at_requested_time' = '-24000',        
     }
   };
-};
+
 export default covid19ImpactEstimator;
    
 
